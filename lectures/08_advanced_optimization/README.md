@@ -2,7 +2,7 @@
 
 ## Notes
 
-<!-- Add your lecture notes here. -->
+- [Gradient Update Methods (PDF)](gradient_update_methods.pdf)
 
 ## Notebooks
 
