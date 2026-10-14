@@ -4,11 +4,11 @@ A course workspace for lecture notes, Jupyter notebooks, exercises, and scientif
 
 ## Course Status
 
-This initial release contains a complete curriculum and editable templates. Lesson notes, assignments, and runnable demonstrations still need to be authored. Original course materials are linked in [Resources](RESOURCES.md).
+Each module contains a space for notes and a notebook. Course content will be added progressively. Original course materials are linked in [Resources](RESOURCES.md).
 
 ## Getting Started
 
-See [Installation](INSTALLATION.md). Follow the modules in numerical order. Each module has four files: README.md (outline and notes), practice.ipynb, exercises.md, and solutions.md. Topics and subtopics are sections inside the notes, rather than separate folders.
+See [Installation](INSTALLATION.md). Follow the modules in numerical order. Each module has two files: README.md with Notes and Notebooks sections, and practice.ipynb.
 
 ## Curriculum
 
@@ -66,8 +66,6 @@ lectures/
   00_course_introduction_and_scientific_python/
     README.md
     practice.ipynb
-    exercises.md
-    solutions.md
   01_neural_network_fundamentals/
   ...
 data/
