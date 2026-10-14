@@ -1,0 +1,8 @@
+# Initial dependencies; versions will be pinned after lesson implementations are validated.
+numpy
+matplotlib
+scipy
+scikit-learn
+jupyterlab
+ipykernel
+# Install TensorFlow separately for the Keras modules in a supported environment.
