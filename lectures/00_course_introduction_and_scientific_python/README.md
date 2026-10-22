@@ -2,7 +2,9 @@
 
 ## Notes
 
-<!-- Add your lecture notes here. -->
+
+
+- [Presentation — Course Introduction and Scientific Python](course_introduction_and_scientific_python.pptx)
 
 ## Notebooks
 

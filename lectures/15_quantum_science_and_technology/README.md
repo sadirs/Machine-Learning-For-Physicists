@@ -2,7 +2,9 @@
 
 ## Notes
 
-<!-- Add your lecture notes here. -->
+
+
+- [Presentation — Quantum Science and Technology](quantum_science_and_technology.pptx)
 
 ## Notebooks
 

@@ -2,7 +2,9 @@
 
 ## Notes
 
-<!-- Add your lecture notes here. -->
+
+
+- [Presentation — Reinforcement Learning Fundamentals](reinforcement_learning_fundamentals.pptx)
 
 ## Notebooks
 

@@ -2,7 +2,9 @@
 
 ## Notes
 
-<!-- Add your lecture notes here. -->
+
+
+- [Presentation — Neural Network Fundamentals](neural_network_fundamentals.pptx)
 
 ## Notebooks
 

@@ -2,7 +2,9 @@
 
 ## Notes
 
-<!-- Add your lecture notes here. -->
+
+
+- [Presentation — Convolutional Neural Networks](convolutional_neural_networks.pptx)
 
 ## Notebooks
 

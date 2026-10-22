@@ -2,7 +2,9 @@
 
 ## Notes
 
-<!-- Add your lecture notes here. -->
+
+
+- [Presentation — Autoencoders](autoencoders.pptx)
 
 ## Notebooks
 

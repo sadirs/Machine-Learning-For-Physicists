@@ -2,7 +2,9 @@
 
 ## Notes
 
-<!-- Add your lecture notes here. -->
+
+
+- [Presentation — Deep Reinforcement Learning](deep_reinforcement_learning.pptx)
 
 ## Notebooks
 

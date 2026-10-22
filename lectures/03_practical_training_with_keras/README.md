@@ -2,7 +2,9 @@
 
 ## Notes
 
-<!-- Add your lecture notes here. -->
+
+
+- [Presentation — Practical Training with Keras](practical_training_with_keras.pptx)
 
 ## Notebooks
 

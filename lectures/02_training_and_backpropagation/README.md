@@ -2,7 +2,9 @@
 
 ## Notes
 
-<!-- Add your lecture notes here. -->
+
+
+- [Presentation — Training and Backpropagation](training_and_backpropagation.pptx)
 
 ## Notebooks
 

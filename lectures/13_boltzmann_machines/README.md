@@ -2,7 +2,9 @@
 
 ## Notes
 
-<!-- Add your lecture notes here. -->
+
+
+- [Presentation — Boltzmann Machines](boltzmann_machines.pptx)
 
 ## Notebooks
 

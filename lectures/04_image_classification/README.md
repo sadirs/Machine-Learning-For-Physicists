@@ -2,7 +2,9 @@
 
 ## Notes
 
-<!-- Add your lecture notes here. -->
+
+
+- [Presentation — Image Classification](image_classification.pptx)
 
 ## Notebooks
 

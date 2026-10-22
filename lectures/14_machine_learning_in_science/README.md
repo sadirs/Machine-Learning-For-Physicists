@@ -2,7 +2,9 @@
 
 ## Notes
 
-<!-- Add your lecture notes here. -->
+
+
+- [Presentation — Machine Learning in Science](machine_learning_in_science.pptx)
 
 ## Notebooks
 

@@ -2,7 +2,9 @@
 
 ## Notes
 
-<!-- Add your lecture notes here. -->
+
+
+- [Presentation — Dimensionality Reduction](dimensionality_reduction.pptx)
 
 ## Notebooks
 
