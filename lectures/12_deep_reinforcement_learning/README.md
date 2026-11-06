@@ -8,4 +8,7 @@
 
 ## Notebooks
 
+
 - [Notebook](practice.ipynb)
+- [09_homework_ImprovedMazeDeepPolicyGradient](09_homework_ImprovedMazeDeepPolicyGradient.ipynb)
+- [08_tutorial_MazeDeepPolicyGradient](08_tutorial_MazeDeepPolicyGradient.ipynb)
